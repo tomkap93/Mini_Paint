@@ -1,0 +1,22 @@
+C:\CODE\C#\WinForms\Mini_Paint\Mini_Paint\bin\Debug\Mini_Paint.exe.config
+C:\CODE\C#\WinForms\Mini_Paint\Mini_Paint\bin\Debug\Mini_Paint.exe
+C:\CODE\C#\WinForms\Mini_Paint\Mini_Paint\bin\Debug\Mini_Paint.pdb
+C:\CODE\C#\WinForms\Mini_Paint\Mini_Paint\obj\Debug\Mini_Paint.csprojAssemblyReference.cache
+C:\CODE\C#\WinForms\Mini_Paint\Mini_Paint\obj\Debug\Mini_Paint.miniPaint.resources
+C:\CODE\C#\WinForms\Mini_Paint\Mini_Paint\obj\Debug\Mini_Paint.Properties.Resources.resources
+C:\CODE\C#\WinForms\Mini_Paint\Mini_Paint\obj\Debug\Mini_Paint.csproj.GenerateResource.cache
+C:\CODE\C#\WinForms\Mini_Paint\Mini_Paint\obj\Debug\Mini_Paint.csproj.CoreCompileInputs.cache
+C:\CODE\C#\WinForms\Mini_Paint\Mini_Paint\obj\Debug\Mini_Paint.exe
+C:\CODE\C#\WinForms\Mini_Paint\Mini_Paint\obj\Debug\Mini_Paint.pdb
+C:\CODE\C#\WinForms\Mini_Paint\Mini_Paint\bin\Debug\Pomoc.pdf
+C:\CODE\C#\WinForms\W trakcie realizacji\Mini_Paint\Mini_Paint\bin\Debug\Pomoc.pdf
+C:\CODE\C#\WinForms\W trakcie realizacji\Mini_Paint\Mini_Paint\bin\Debug\Mini_Paint.exe.config
+C:\CODE\C#\WinForms\W trakcie realizacji\Mini_Paint\Mini_Paint\bin\Debug\Mini_Paint.exe
+C:\CODE\C#\WinForms\W trakcie realizacji\Mini_Paint\Mini_Paint\bin\Debug\Mini_Paint.pdb
+C:\CODE\C#\WinForms\W trakcie realizacji\Mini_Paint\Mini_Paint\obj\Debug\Mini_Paint.csprojAssemblyReference.cache
+C:\CODE\C#\WinForms\W trakcie realizacji\Mini_Paint\Mini_Paint\obj\Debug\Mini_Paint.miniPaint.resources
+C:\CODE\C#\WinForms\W trakcie realizacji\Mini_Paint\Mini_Paint\obj\Debug\Mini_Paint.Properties.Resources.resources
+C:\CODE\C#\WinForms\W trakcie realizacji\Mini_Paint\Mini_Paint\obj\Debug\Mini_Paint.csproj.GenerateResource.cache
+C:\CODE\C#\WinForms\W trakcie realizacji\Mini_Paint\Mini_Paint\obj\Debug\Mini_Paint.csproj.CoreCompileInputs.cache
+C:\CODE\C#\WinForms\W trakcie realizacji\Mini_Paint\Mini_Paint\obj\Debug\Mini_Paint.exe
+C:\CODE\C#\WinForms\W trakcie realizacji\Mini_Paint\Mini_Paint\obj\Debug\Mini_Paint.pdb
