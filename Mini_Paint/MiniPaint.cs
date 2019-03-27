@@ -32,25 +32,21 @@ namespace Mini_Paint
         public miniPaint()
         {
             InitializeComponent();
-            Inicjalizacja();
-        }
-    
-        #endregion
-
-        #region Metody
-        private void Inicjalizacja()
-        {
-            pictureBox.Image = new Bitmap(pictureBox.Width, pictureBox.Height);
+            
+              pictureBox.Image = new Bitmap(pictureBox.Width, pictureBox.Height);
            g = Graphics.FromImage(pictureBox.Image);
             pioro = new Pen(Color.Black);
             nud_widthpen.Value = (decimal)pioro.Width;
             transImage = new TransImage((Bitmap)pictureBox.Image);
             copyPicture =new Bitmap( pictureBox.Image);
             savePicture = new Bitmap(pictureBox.Image);
-         
+            
+           
         }
+    
+        #endregion
 
-      
+        #region Metody
 
         public void Change()
         {
